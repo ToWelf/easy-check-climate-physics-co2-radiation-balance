@@ -73,7 +73,7 @@ The notebook walks you through:
 
 1. **Historical CO2 Data**: See the 51% increase from pre-industrial times
 2. **Carbon Budget**: Understand where emitted CO2 goes (atmosphere, ocean, land)
-3. **Ocean Acidification**: 30% increase in ocean acidity from CO2 absorption
+3. **Ocean Acidification**: 48% increase in ocean acidity from CO2 absorption
 4. **Energy Balance**: How Earth maintains temperature equilibrium
 5. **Greenhouse Effect**: Why we're +33°C warmer than without an atmosphere
 6. **Radiative Forcing**: The 2.13 W/m² energy imbalance from CO2 increase
@@ -98,7 +98,7 @@ The notebook walks you through:
 | Metric | Pre-Industrial | Current | Change |
 |--------|---------------|---------|--------|
 | CO2 Concentration | 278 ppm | 421 ppm | +143 ppm (+51%) |
-| Ocean pH | 8.25 | 8.08 | -0.17 (30% more acidic) |
+| Ocean pH | 8.25 | 8.08 | -0.17 (48% more acidic) |
 | Radiative Forcing | 0 W/m² | +2.13 W/m² | +2.13 W/m² |
 | Temperature | Baseline | +1.2°C | +1.2°C (with more committed) |
 
