@@ -1,0 +1,26 @@
+[project]
+name = "easy-check-climate-physics-co2-radiation-balance"
+version = "0.1.0"
+description = "A transparent, data-driven Python notebook that provides verifiable proof of the human-induced greenhouse effect through three core pillars of climate physics"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Climate Physics Project" }
+]
+dependencies = [
+    "numpy>=1.21.0",
+    "matplotlib>=3.4.0",
+    "scipy>=1.7.0",
+    "jupyter>=1.0.0",
+    "notebook>=6.4.0",
+    "ipykernel>=6.0.0",
+    "ipywidgets>=7.6.0",
+    "pandas>=2.0.3",
+]
+
+[dependency-groups]
+dev = []
+
+[tool.uv]
+
