@@ -39,7 +39,7 @@ Demonstrates warming through radiative forcing:
 
 ### Prerequisites
 - Python 3.7 or higher
-- pip package manager
+- uv or pip package manager
 
 ### Setup
 
@@ -51,6 +51,7 @@ cd easy-check-climate-physics-co2-radiation-balance
 
 2. Install required packages:
 ```bash
+uv sync
 pip install -r requirements.txt
 ```
 
@@ -60,7 +61,7 @@ pip install -r requirements.txt
 
 1. Start Jupyter Notebook:
 ```bash
-jupyter notebook
+uv run jupyter climate_physics_model.ipynb
 ```
 
 2. Open `climate_physics_model.ipynb` in your browser
